@@ -2,14 +2,10 @@
 
 # Australian DoHAC B2G API Integrations
 
-[Required. Show overview of the Accelerator. This should match the approved content used on the Accelerator listing.]
-
 [Accelerator Listing](https://gpsaccelerators.developer.salesforce.com/accelerator/a0wDo0000024oKbIAI/australian-dohac-b2g-api-integrations)
 
 
 ## Description
-
-[Required. Description of the Accelerator. This should match the approved content used on the Accelerator listing, but could include additional content. This can include images/screenshots which must be stored in the /docs/ folder (no external images or images stored elsewhere in the repository.]
 
 Accelerate your connection to the Business to Government (B2G) APIs using this MuleSoft Implementation Template.
 
@@ -37,8 +33,6 @@ Here is the repository of reusable Mulesoft Assets, please find them in the ```/
 
 ## Included Assets
 
-[Required. List of the assets included in the Accelerator and where to find them. This can be as detailed as desired, but at a minimum it should be detailed by asset type (unmanaged package, datapack, documentation, and other assets) and the next level metadata type (Salesforce metadata, datapack contents, separate documentation files, etc.) and their counts.]
-
 This Accelerator includes the following assets:
 <ol>
   <li>An <strong>unmanaged package</strong> (link below; metadata is also found in the /force-app/main/default/ folder) that includes:
@@ -59,8 +53,6 @@ This Accelerator includes the following assets:
 
 
 ## Before You Install
-
-[Required. Pre-requisites, dependencies, license requirements, and other assumptions and caveats should be declared here. Consider content that's specific to the Accelerator and the type of product or technology involved. The PMO may also add assumptions or notes that more broadly apply to the entire program.]
 
 **License Requirements** [Required]
 * Example: License Public Sector Solutions - requires Foundations or Advanced for internal; requires Communities for external
